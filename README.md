@@ -77,7 +77,7 @@ Next, navigate to C:\inetpub\wwwroot\osTicket\include and rename ost-sampleconfi
 </p>
 
 ![image](https://github.com/user-attachments/assets/ca312924-f911-4de7-9fa9-3436acecdf83)
-![image](https://github.com/user-attachments/assets/1d993cad-b9e3-4878-a91f-b1e2f2171d8b)
+![image](https://github.com/user-attachments/assets/9820d014-f222-4e8d-9bb8-2a9a13231ea8)
 ![image](https://github.com/user-attachments/assets/5c2ae6f8-38ce-4bc5-964c-dc9066dd8e6a)
 
 <p>
